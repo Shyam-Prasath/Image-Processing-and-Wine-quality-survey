@@ -17,14 +17,14 @@ A machine learning project built in Python using pandas, scikit-learn, and matpl
 - **Usage:** Run the `image_processing.py` file using Python 3, providing the path to the input image as a command-line argument.
 
 ### 2. Wine Quality Survey:
-- **File:** `wine_quality_survey.ipynb`
+- **File:** `model.ipynb`
 - **Description:** Analyzes wine quality based on various features using machine learning techniques.
 - **Dependencies:**
   - Python 3
   - pandas
   - scikit-learn
   - matplotlib
-- **Usage:** Open and run the `wine_quality_survey.ipynb` notebook in a Jupyter environment. Make sure to have the `wine.csv` dataset in the same directory.
+- **Usage:** Open and run the `model.ipynb` notebook in a Jupyter environment. Make sure to have the `wine.csv` dataset in the same directory.
 
 ## Dataset:
 - **File:** `wine.csv`
